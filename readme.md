@@ -102,7 +102,7 @@ You only qualify for MSP if you are living as a residence in BC. If you leave BC
 <h3 id="visa"> 1.2 Visa </h3>
 
 <h4 id="international_visa"> 1.2.1 International students </h4> 
-
+You will need to go to a German consulate that provides visa services. The nearest is in Toronto.
 
 <h4 id="us_citizens"> 1.2.1 US citizens </h4> 
 
@@ -119,7 +119,7 @@ Arriving in Stuttgart can be stressful since most of us are not europeans nor sp
 <h3 id="find_place"> 2.1 Find a place </h3>
 
 The most important thing to know before you start looking for a place to stay at is commute and the transport system (Refer to section <a href="#commuting"> 2.2</a>).
-It is encouraged to house hunt in person instead of doing it from the Canada. There sometimes is scams happening and being present to visit the place is preferable (even if you don't speak German). 
+It is encouraged to house hunt in person instead of doing it from Canada. There are sometimes scams happening and being present to visit the place is preferable (even if you don't speak German). 
 
 For example, Sophia and I visited an attractive place in Renningen mid-May, just to learn afterward that the renting started early August. 
 
@@ -129,7 +129,7 @@ Air bnb is always a great ressource to quickly find a transition place until you
 
 <h4 id="stuttgart_lonberg"> 2.1.2 Stuttgart and other areas </h4>
 
-Stuttgart might sound attractive but it is EXTREMELY expensive. More than half our poor salary can go for rent if we're not careful. Chosing a place closer to Renningen might be a good choice. We would recommand Leonberg and it's environt. Wie-der-Stadt could also be a good choice (only two S-bahn station away). 
+Stuttgart might sound attractive but it is EXTREMELY expensive. More than half our poor salary can go for rent if we're not careful. Chosing a place closer to Renningen might be a good choice. We would recommand Leonberg and it's environt. Weil-der-Stadt could also be a good choice (only two S-bahn station away).
 
 Finding a place in Renningen would be best but also expensive. This is due that the two main economic actors in Renningen are Bosch (1200 employees) and the American military base. As a result people move a lot in and out of Renningen so the prices goes up.
   
@@ -145,7 +145,7 @@ Commuting to work is maybe the parameter that will most impact your life in Germ
 
 The City-Link will be your favourite ressource! City-Link is a commuting system by Bosch. 
 
-City-link is two FREE buses for employees living in Stuttgart downtown. The Bus is direct to Renningen and can pick people up at two bus stops> Rotebühlplatz and Swartzstraße. The buses have wifi and AC. This is a free service provided by Bosch... and honestly it is a life saver. It allows people who does not want to spend 300€ for a student travel pass to still be able to live in Stuttgart Downtown. 
+City-link is two FREE buses for employees living in Stuttgart downtown. The Bus is direct to Renningen and can pick people up at two bus stops> Rotebühlplatz and Schwabstraße. The buses have wifi and air conditioning. This is a free service provided by Bosch... and honestly it is a life saver. It allows people who does not want to spend the 300€ for a student travel pass to still be able to live in Stuttgart Downtown. 
 
 PROS: 
 <li> Free </li>
@@ -187,9 +187,11 @@ The U-Bahn transport map:
 <br/>
 ![](assets/images/stuttgart-u-bahn-map.jpg)
 
-It is important to know that the cost to travel in zone 1 is 2.50€ (2.37€ if you pass by the official VVS app, internet required). The cost to travel to Renningen from Stadtmitte is ~5.50€ (~11.00€ for a two way traject). The cheapest option is to travel in zone one to take the city-link. 
+It is important to know that the cost to travel in zone 1 is 2.50€ (2.37€ if you pay by the official VVS app, internet required). The cost to travel to Renningen from Stadtmitte is ~5.50€ (~11.00€ for a two way ticket). The cheapest option is to travel in zone one to take the city-link. 
 
 There are student plans and other plans available but since I am not using them I cannot help. The handsome and extroardinary  Mahdin will fill this section.
+
+There is a student plan whereby you get six months of unlimited travel in the entire Stuttgart region for €300. This needs to be purchased at an SSB ticket centre (such as in Hauptbahnhof and Schwabstraße). Note that the six month periods are fixed (e.g., only March-August or October-March) so plan ahead.
 
 <h4 id="driving"> 2.2.4 Driving </h4>
 
@@ -219,22 +221,33 @@ Info:
 <h3 id= "bank"> 2.3 Bank</h3>
 
 <h4 id="bank_2"> 2.3.1 Go to Deutsche Bank (need better title) </h4>
+The largest bank.
 
 <h4 id="other_banks"> 2.3.2 Other Banks </h4> 
+Volksbank: This is a consortium of hundreds of member-owned credit unions that has branches in most towns. Perk: its sensible investments allowed it to survive the global financial crisis without bailout (unlike Deutsche and others)
+
+N26: A direct-bank that operates no branches. Everything is done easily online.
 
 <h3 id="phoneplan"> 2.4 Phone Plan </h3>
 
 <h4 id="pre_paid"> 2.4.1 Pre-paid </h4>
+Pre-paid plans are generally the best option for temporary residents. Get yourself to a shop of a phone provider and make sure they activate your SIM card for you. You can usually get around 2 GB of data plus a few local calls and texts for €10-15.
 
 <h4 id="best_companies"> 2.4.2 Best companies </h4>
-  
+If you work at Bosch Renningen, Vodafone is currently the only available phone network on the campus. So consider choosing them (or a partner provider) since other networks usually only work outdoors and there is no wifi available for personal use.
+
 <h2 id="work_environment"> 3. Bosch Work Environment </h2>
 
 <h3 id="getting_paid"> 3.1 Getting Paid at Bosch </h3>
+You are paid on the 28th day of your first full month of work. Be warned if you start your internship in the middle of the month because you will not get your pay until the end of the next month. So make sure you have enough to cover your rent and expenses for that period.
 
 <h3 id="food"> 3.2 Food - Intern Discount </h3>
+There is a €2.10 discount for interns at the Bosch canteen, meaning lunch will cost between €1.30 and €3.00 depending on your choice of meal. So you do not need to bring your own food. There is always at least one vegetarian option available.
 
 <h3 id="flex_time"> 3.3 Flex time/Vacation </h3>
+Your contract requires you to work a fixed number of hours (7 hours per day + 45 minutes break). But you are free to work more hours some days and fewer hours on other days. You can even collect hours and take days off. Just be sure to inform your supervisor in advance so they can accomodate. On top of this, you are also given 10 vacation days per 6 months (that's 13 for an 8-month coop).
+
+We would recommend making the best of your vacation days and flex time to explore Germany and the neighbouring countries. There is a lot to see!
 
 <h2 id="learning_german"> 4. Learning German </h2>
 
@@ -244,7 +257,7 @@ You don’t need to learn German to perform well at Bosch. But boy, oh boy, it w
 
 <h3 id="tools_and_resources"> 4.2 Helpful tools and resources </h3>
 
-There are many resources out there to aid you in learning German if you’re interested. Find stuff that works for your brain and you enjoy doing on a daily basis. Below are a few resources we’ve found to be helpful.
+There are many resources out there to help you to learning German if you’re interested. Find stuff that works for your brain and you enjoy doing on a daily basis. Below are a few resources we’ve found to be helpful.
 
 <ul>
  <li> <b> Duolingo </b>
@@ -287,7 +300,7 @@ There are many resources out there to aid you in learning German if you’re int
  </li>
  <li> <b> Native German speakers </b>
   <ul>
-   <li>Most Germans appreciate others who are working to learn German. Reach out to your new colleagues and friends for help with pronunciations and translations. Practice speaking with them and ask for feedback. 
+   <li>Most Germans appreciate others who are working to learn German. Reach out to your new colleagues and friends for help with pronunciation and translation. Practice speaking with them and ask for feedback. 
    </li>
   </ul>
  </li>
